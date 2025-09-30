@@ -4,7 +4,7 @@ This repository contains a dynamic Power BI dashboard designed to analyze and vi
 
 ### 🖼️ Dashboard Preview
 
-
+![Customer Complaints Dashboard](https://github.com/Jaideep-2712/Customer-Complaints-Dashboard-Power-BI/blob/main/Customer%20Complaint%20Dashboard.PNG?raw=true)
 
 ### 🔍 Dashboard Overview
 
