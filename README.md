@@ -15,20 +15,21 @@ The dashboard includes the following key components:
 - **Complaint Trends (2020–2021)**: A line chart showing monthly complaint volumes across two years for trend analysis.
 - **Complaints by Ticket Type**: Bar chart categorizing complaints into:
   - Refund Request
-  - Technical Complaint
+  - Technical Issue
   - Cancellation Request
   - Product Complaint
   - Billing Inquiry
 - **Complaints by Channel**: Pie chart showing distribution across:
-  - Email (42.3%)
-  - Phone (31.5%)
-  - Social Media (26.2%)
+  - Email (25.3%)
+  - Phone (25.2%)
+  - Social Media (25.0%)
+  - Chat (24.5%)
 - **Top 5 Products with Most Complaints**: Highlights the most problematic products including:
-  - Green Hero Fitness Tracker
-  - Green Hero Smartwatch
-  - Green Hero Wireless Earbuds
-  - Green Hero Smart Glasses
-  - Green Hero VR Headset
+  - Canon EOS
+  - GoPro Hero
+  - Nest Thermostat
+  - Amazon Echo
+  - Philips Hue Lights
 - **Customer Satisfaction Rating**: Gauge visual showing an average rating of **2.99**.
 - **Complaints by Priority Level**: Pie chart breaking down complaints into:
   - Low, Medium, High, and Critical priorities.
